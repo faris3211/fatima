@@ -1,4 +1,13 @@
 {
+  "name": "fatimanodeapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Fatima",
+  "license": "ISC",
   "dependencies": {
     "@google-cloud/speech": "^6.1.0",
     "@google-cloud/storage": "^7.7.0",
